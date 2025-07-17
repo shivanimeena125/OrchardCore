@@ -1,0 +1,19 @@
+{
+  "Default": {
+    "VersionId": "4pc0y99xt9rh502qdxwwxv79wz",
+    "TenantId": "4gs7mymjd6mvhzhpma1jeh0b41",
+    "State": "Running"
+  },
+  "Demosite": {
+    "VersionId": "4j11t6w5dc43frdhhdkbkzp7mg",
+    "TenantId": "4q1mba0m3v05c3cqtvbhgzypd2",
+    "RequestUrlPrefix": "demo",
+    "State": "Running"
+  },
+  "TestTanant": {
+    "VersionId": "40r0cy2cgteqrzf2r08ja9f85h",
+    "TenantId": "4zha4xw4hjpj24s8qmb2b8w6m6",
+    "RequestUrlPrefix": "test",
+    "State": "Running"
+  }
+}
