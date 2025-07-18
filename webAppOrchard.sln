@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTheme.OrchardCore", "..\M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.OrchardCore", "..\HelloWorld.OrchardCore\HelloWorld.OrchardCore.csproj", "{80864C49-3779-4794-AC59-D3B2F1EC753D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardCore.Theme", "..\OrchardCore.Theme\OrchardCore.Theme.csproj", "{253C9405-E84C-4E0C-A70B-048563CF3B78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{80864C49-3779-4794-AC59-D3B2F1EC753D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80864C49-3779-4794-AC59-D3B2F1EC753D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80864C49-3779-4794-AC59-D3B2F1EC753D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253C9405-E84C-4E0C-A70B-048563CF3B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253C9405-E84C-4E0C-A70B-048563CF3B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253C9405-E84C-4E0C-A70B-048563CF3B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253C9405-E84C-4E0C-A70B-048563CF3B78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

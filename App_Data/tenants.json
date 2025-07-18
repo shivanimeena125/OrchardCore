@@ -15,5 +15,11 @@
     "TenantId": "4zha4xw4hjpj24s8qmb2b8w6m6",
     "RequestUrlPrefix": "test",
     "State": "Running"
+  },
+  "Test1": {
+    "VersionId": "4mnx95sds9v68wkth64p8xpddv",
+    "TenantId": "4vwzg4jshzqf2sjc47ehmg1mmn",
+    "RequestUrlPrefix": "Test1",
+    "State": "Running"
   }
 }
